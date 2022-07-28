@@ -1,0 +1,47 @@
+.css-14yumv1-MuiToolbar-root {
+   
+    /* display: flex;
+   
+    align-items: center;
+    padding-left: 16px;
+    padding-right: 16px;
+    min-height: 56px; */
+    /* background-color: #fDD670; */
+    margin: -7.5px;
+    
+    
+}
+/* 
+.container{
+    box-sizing: border-box;
+   width:450px;
+   height: 70px;
+   color:black;
+   box-shadow: 2px 2px 7px 0px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   cursor: pointer;
+   grid-template-columns: auto auto;
+   grid-template-rows: 120px;
+   display: inline-table;
+  padding-top: 25px;
+  justify-content: space-between;
+padding: 23px 21px;
+text-align:left;
+  padding: 10px 10px;
+  margin-top: 34px;
+  
+ }
+ .What{
+    padding-left:40%;
+    height: 34px;
+    width: 23px;
+ } */
+ 
+.slick-slide img{
+  display: inline-block;
+  
+}
+ 
+
